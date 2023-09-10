@@ -1,0 +1,106 @@
+---
+object: card
+id: d2e9decf-47b7-44e0-b380-8055b6011021
+oracle_id: da2f0d16-3cb4-492d-8535-52a31dbae95e
+multiverse_ids:
+- 911
+tcgplayer_id: 3231
+cardmarket_id: 6860
+name: Pyramids
+lang: en
+released_at: '1993-12-17'
+uri: https://api.scryfall.com/cards/d2e9decf-47b7-44e0-b380-8055b6011021
+scryfall_uri: https://scryfall.com/card/arn/67/pyramids?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/d/2/d2e9decf-47b7-44e0-b380-8055b6011021.jpg?1562934392
+  normal: https://cards.scryfall.io/normal/front/d/2/d2e9decf-47b7-44e0-b380-8055b6011021.jpg?1562934392
+  large: https://cards.scryfall.io/large/front/d/2/d2e9decf-47b7-44e0-b380-8055b6011021.jpg?1562934392
+  png: https://cards.scryfall.io/png/front/d/2/d2e9decf-47b7-44e0-b380-8055b6011021.png?1562934392
+  art_crop: https://cards.scryfall.io/art_crop/front/d/2/d2e9decf-47b7-44e0-b380-8055b6011021.jpg?1562934392
+  border_crop: https://cards.scryfall.io/border_crop/front/d/2/d2e9decf-47b7-44e0-b380-8055b6011021.jpg?1562934392
+mana_cost: "{6}"
+cmc: 6.0
+type_line: Artifact
+oracle_text: |-
+  {2}: Choose one —
+  • Destroy target Aura attached to a land.
+  • The next time target land would be destroyed this turn, remove all damage marked on it instead.
+colors: []
+color_identity: []
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: true
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 856f63eb-e056-43e5-8a56-7a58e1608940
+set: arn
+set_name: Arabian Nights
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/856f63eb-e056-43e5-8a56-7a58e1608940
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aarn&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/arn?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/d2e9decf-47b7-44e0-b380-8055b6011021/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ada2f0d16-3cb4-492d-8535-52a31dbae95e&unique=prints
+collector_number: '67'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Amy Weber
+artist_ids:
+- c1160787-e72e-4f89-b361-c6864f7a4e3a
+illustration_id: 6effd553-7bdd-4239-8a31-59558d9773a1
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 23736
+prices:
+  usd: '194.98'
+  usd_foil: 
+  usd_etched: 
+  eur: '150.00'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=911
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Pyramids&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Pyramids&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Pyramids
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/3231?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Pyramids&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Pyramids&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

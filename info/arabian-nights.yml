@@ -1,0 +1,16 @@
+---
+object: set
+id: 856f63eb-e056-43e5-8a56-7a58e1608940
+code: arn
+tcgplayer_id: 11
+name: Arabian Nights
+uri: https://api.scryfall.com/sets/856f63eb-e056-43e5-8a56-7a58e1608940
+scryfall_uri: https://scryfall.com/sets/arn
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aarn&unique=prints
+released_at: '1993-12-17'
+set_type: expansion
+card_count: 92
+digital: false
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/arn.svg?1693800000

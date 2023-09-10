@@ -1,0 +1,108 @@
+---
+object: card
+id: 18348df2-9037-4db4-bddb-76dc933229bf
+oracle_id: 8ada7388-fd8b-434c-a17a-bce19cf3e615
+multiverse_ids:
+- 988
+tcgplayer_id: 3187
+cardmarket_id: 6867
+name: Elephant Graveyard
+lang: en
+released_at: '1993-12-17'
+uri: https://api.scryfall.com/cards/18348df2-9037-4db4-bddb-76dc933229bf
+scryfall_uri: https://scryfall.com/card/arn/74/elephant-graveyard?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/8/18348df2-9037-4db4-bddb-76dc933229bf.jpg?1562899580
+  normal: https://cards.scryfall.io/normal/front/1/8/18348df2-9037-4db4-bddb-76dc933229bf.jpg?1562899580
+  large: https://cards.scryfall.io/large/front/1/8/18348df2-9037-4db4-bddb-76dc933229bf.jpg?1562899580
+  png: https://cards.scryfall.io/png/front/1/8/18348df2-9037-4db4-bddb-76dc933229bf.png?1562899580
+  art_crop: https://cards.scryfall.io/art_crop/front/1/8/18348df2-9037-4db4-bddb-76dc933229bf.jpg?1562899580
+  border_crop: https://cards.scryfall.io/border_crop/front/1/8/18348df2-9037-4db4-bddb-76dc933229bf.jpg?1562899580
+mana_cost: ''
+cmc: 0.0
+type_line: Land
+oracle_text: |-
+  {T}: Add {C}.
+  {T}: Regenerate target Elephant.
+colors: []
+color_identity: []
+keywords: []
+produced_mana:
+- C
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: true
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 856f63eb-e056-43e5-8a56-7a58e1608940
+set: arn
+set_name: Arabian Nights
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/856f63eb-e056-43e5-8a56-7a58e1608940
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aarn&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/arn?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/18348df2-9037-4db4-bddb-76dc933229bf/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8ada7388-fd8b-434c-a17a-bce19cf3e615&unique=prints
+collector_number: '74'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Rob Alexander
+artist_ids:
+- 35906871-6c78-4ab2-9ed1-e6792c8efb74
+illustration_id: 8ca2d038-b7e9-4192-91d0-ca36d264d8ba
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 17412
+penny_rank: 4773
+prices:
+  usd: '242.74'
+  usd_foil: 
+  usd_etched: 
+  eur: '210.00'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=988
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Elephant+Graveyard&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Elephant+Graveyard&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Elephant+Graveyard
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/3187?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Elephant+Graveyard&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Elephant+Graveyard&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
